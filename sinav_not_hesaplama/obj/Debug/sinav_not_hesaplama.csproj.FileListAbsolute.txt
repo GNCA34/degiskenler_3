@@ -1,0 +1,10 @@
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\sinav_not_hesaplama\bin\Debug\sinav_not_hesaplama.exe.config
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\sinav_not_hesaplama\bin\Debug\sinav_not_hesaplama.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\sinav_not_hesaplama\bin\Debug\sinav_not_hesaplama.pdb
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\sinav_not_hesaplama\obj\Debug\sinav_not_hesaplama.csproj.AssemblyReference.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\sinav_not_hesaplama\obj\Debug\sinav_not_hesaplama.Form1.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\sinav_not_hesaplama\obj\Debug\sinav_not_hesaplama.Properties.Resources.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\sinav_not_hesaplama\obj\Debug\sinav_not_hesaplama.csproj.GenerateResource.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\sinav_not_hesaplama\obj\Debug\sinav_not_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\sinav_not_hesaplama\obj\Debug\sinav_not_hesaplama.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\sinav_not_hesaplama\obj\Debug\sinav_not_hesaplama.pdb

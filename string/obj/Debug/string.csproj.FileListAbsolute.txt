@@ -1,0 +1,10 @@
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\string\bin\Debug\@string.exe.config
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\string\bin\Debug\@string.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\string\bin\Debug\@string.pdb
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\string\obj\Debug\string.csproj.AssemblyReference.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\string\obj\Debug\string.Form1.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\string\obj\Debug\string.Properties.Resources.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\string\obj\Debug\string.csproj.GenerateResource.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\string\obj\Debug\string.csproj.CoreCompileInputs.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\string\obj\Debug\@string.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\string\obj\Debug\@string.pdb

@@ -1,0 +1,10 @@
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\sinema_bufe_satis_projesi\bin\Debug\sinema_bufe_satis_projesi.exe.config
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\sinema_bufe_satis_projesi\bin\Debug\sinema_bufe_satis_projesi.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\sinema_bufe_satis_projesi\bin\Debug\sinema_bufe_satis_projesi.pdb
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\sinema_bufe_satis_projesi\obj\Debug\sinema_bufe_satis_projesi.csproj.AssemblyReference.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\sinema_bufe_satis_projesi\obj\Debug\sinema_bufe_satis_projesi.Form1.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\sinema_bufe_satis_projesi\obj\Debug\sinema_bufe_satis_projesi.Properties.Resources.resources
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\sinema_bufe_satis_projesi\obj\Debug\sinema_bufe_satis_projesi.csproj.GenerateResource.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\sinema_bufe_satis_projesi\obj\Debug\sinema_bufe_satis_projesi.csproj.CoreCompileInputs.cache
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\sinema_bufe_satis_projesi\obj\Debug\sinema_bufe_satis_projesi.exe
+C:\Users\Gökhan\OneDrive\Masaüstü\udemy projeler\Degiskenler\sinema_bufe_satis_projesi\obj\Debug\sinema_bufe_satis_projesi.pdb
